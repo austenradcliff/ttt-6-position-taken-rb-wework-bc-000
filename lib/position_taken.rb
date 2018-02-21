@@ -8,6 +8,7 @@ def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
+end
 
 def position_taken?(board, index)
   if index.to.i == position_taken?
