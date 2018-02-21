@@ -2,8 +2,6 @@
 
 Array[8]
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-
 def position_taken?(board, index)
   if index.to.i == position_taken?
     true
