@@ -2,6 +2,8 @@
 
 Array[8]
 
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 def display_board
   puts "   |   |   "
   puts "-----------"
