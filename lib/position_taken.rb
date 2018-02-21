@@ -2,7 +2,7 @@
 
 Array[8]
 
-def display_board(board,index)
+def display_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
