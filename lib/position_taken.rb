@@ -3,4 +3,4 @@
 array[8]
 
 def position_taken?(board, index)
-  if position.to.
+  if index.to.i 
