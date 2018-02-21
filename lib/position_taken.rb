@@ -2,5 +2,5 @@
 
 array[8]
 
-def position_taken
-  if 
+def position_taken?(board, index)
+  if position.to.
