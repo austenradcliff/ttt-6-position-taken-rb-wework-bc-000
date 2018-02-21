@@ -3,4 +3,4 @@
 array[8]
 
 def position_taken
-  
+  if 
