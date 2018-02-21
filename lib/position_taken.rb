@@ -2,4 +2,4 @@
 
 array[8]
 
-position_taken? 
+position_taken?(board, index)
