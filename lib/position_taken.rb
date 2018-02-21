@@ -20,8 +20,8 @@ def position_taken?(board, index)
   end
 end
 
-def position_taken?(board,position)
-  if board[position] == " "
+def position_taken?(board,index)
+  if board[index] == " "
     false
     elsif board[position] == ""
     false
