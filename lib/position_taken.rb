@@ -2,4 +2,4 @@
 
 array[8]
 
-position_taken?(board, index)
+def position_taken?()
